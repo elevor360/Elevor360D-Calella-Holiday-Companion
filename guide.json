@@ -1,0 +1,308 @@
+{
+  "version": "3.0",
+  "destination": "Calella, Costa del Maresme",
+  "updated": "2026-11-01",
+  "intro": "Discover Calella on the Costa del Maresme: sandy beaches, a charming old town, the lighthouse and easy excursions to Barcelona. Plan your days and save favourite visits and photos on your device.",
+  "areas": [
+    {
+      "name": "Calella Old Town",
+      "description": "Historic streets around Carrer de l’Església, shops, cafés and local squares."
+    },
+    {
+      "name": "Platja Gran",
+      "description": "The main sandy beach and seafront promenade."
+    },
+    {
+      "name": "Garbi area",
+      "description": "Beachfront west of the centre, close to hotels and the railway station."
+    },
+    {
+      "name": "Les Roques",
+      "description": "Smaller rocky coves beneath the lighthouse; access includes slopes and steps."
+    },
+    {
+      "name": "Pineda de Mar",
+      "description": "Neighbouring resort with a broad beach and promenade."
+    },
+    {
+      "name": "Sant Pol de Mar",
+      "description": "Nearby coastal village with pretty streets and sandy coves."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Calella Lighthouse",
+      "description": "Landmark lighthouse overlooking the coast; check visitor access and opening hours."
+    },
+    {
+      "name": "Parc Dalmau",
+      "description": "Shady town park with walking paths and picnic areas."
+    },
+    {
+      "name": "Les Torretes",
+      "description": "Remains of historic optical telegraph towers on the hillside."
+    },
+    {
+      "name": "Carrer de l’Església",
+      "description": "Pedestrian shopping street through the old town."
+    },
+    {
+      "name": "Santa Maria and Sant Nicolau Church",
+      "description": "Parish church in the historic centre."
+    },
+    {
+      "name": "Calella seafront",
+      "description": "Enjoy the promenade and coastal views."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Barcelona–El Prat Airport",
+      "description": "Main international airport; check rail, coach and transfer options."
+    },
+    {
+      "name": "Girona–Costa Brava Airport",
+      "description": "Alternative airport; check seasonal flights and onward transfers."
+    },
+    {
+      "name": "Calella railway station",
+      "description": "Coastal rail connections towards Barcelona and nearby towns; check schedules."
+    },
+    {
+      "name": "Local buses",
+      "description": "Check current regional routes and timetables."
+    },
+    {
+      "name": "Taxis",
+      "description": "Use licensed taxis and agree on longer journey fares."
+    },
+    {
+      "name": "Walking",
+      "description": "Central Calella is walkable; lighthouse and coves involve hills or steps."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Dial 112 in Spain."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check bank card charges."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check UK government passport and entry guidance before travel."
+    },
+    {
+      "name": "Languages",
+      "description": "Catalan and Spanish are official languages; English is common in tourist areas."
+    },
+    {
+      "name": "Beach safety",
+      "description": "Follow beach flags and lifeguard advice; check sea conditions."
+    },
+    {
+      "name": "Time zone",
+      "description": "Mainland Spain is normally one hour ahead of the UK."
+    },
+    {
+      "name": "Seasonal opening",
+      "description": "Tourist services and attractions may operate reduced hours outside summer."
+    }
+  ],
+  "links": [
+    {
+      "name": "Spain travel advice (UK)",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Calella tourism (official)",
+      "url": "https://www.calellabarcelona.com/"
+    },
+    {
+      "name": "Barcelona tourism (official)",
+      "url": "https://www.barcelonaturisme.com/"
+    },
+    {
+      "name": "Catalonia rail information (Rodalies)",
+      "url": "https://rodalies.gencat.cat/en/inici/"
+    },
+    {
+      "name": "Barcelona Airport (Aena)",
+      "url": "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat.html"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Calella local advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Platja Gran",
+      "description": "Long main beach with nearby cafés and seasonal facilities."
+    },
+    {
+      "name": "Platja de Garbí",
+      "description": "Broad sandy beach near the railway station."
+    },
+    {
+      "name": "Platja de les Roques",
+      "description": "Small coves with rocky surroundings; check access and sea conditions."
+    },
+    {
+      "name": "Platja de la Roca Grossa",
+      "description": "Scenic cove east of town, with steps and rocky terrain."
+    },
+    {
+      "name": "Pineda de Mar Beach",
+      "description": "Nearby long sandy beach."
+    },
+    {
+      "name": "Sant Pol de Mar beaches",
+      "description": "Small beaches and coves in the neighbouring village."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Carrer de l’Església",
+      "description": "Main pedestrian shopping street with independent stores."
+    },
+    {
+      "name": "Calella municipal market",
+      "description": "Explore local produce; check current opening hours."
+    },
+    {
+      "name": "Weekly street market",
+      "description": "Check the current market day and location with local tourism information."
+    },
+    {
+      "name": "Local supermarkets",
+      "description": "Groceries and beach essentials; Sunday hours may vary."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Old Town evenings",
+      "description": "Restaurants, cafés and terraces around the centre."
+    },
+    {
+      "name": "Beachfront bars",
+      "description": "Seasonal bars and relaxed evenings along the seafront."
+    },
+    {
+      "name": "Live entertainment",
+      "description": "Check current events, venues and seasonal programmes."
+    },
+    {
+      "name": "Evening promenade",
+      "description": "Stroll the seafront after sunset."
+    }
+  ],
+  "family": [
+    {
+      "name": "Platja Gran",
+      "description": "Family beach day; follow lifeguard and flag guidance."
+    },
+    {
+      "name": "Parc Dalmau",
+      "description": "Green space for walking and picnics."
+    },
+    {
+      "name": "Calella Lighthouse viewpoint",
+      "description": "Scenic outing; check walking route and accessibility."
+    },
+    {
+      "name": "Coastal train trip",
+      "description": "Visit nearby Pineda de Mar or Sant Pol de Mar."
+    },
+    {
+      "name": "Barcelona day out",
+      "description": "Plan a family excursion by rail and check return services."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Old Town restaurants",
+      "description": "Explore restaurants around Carrer de l’Església and nearby streets."
+    },
+    {
+      "name": "Catalan cuisine",
+      "description": "Look for local dishes, grilled vegetables and regional specialities."
+    },
+    {
+      "name": "Seafood and rice dishes",
+      "description": "Try coastal restaurants serving fish and rice dishes."
+    },
+    {
+      "name": "Beachfront cafés",
+      "description": "Casual snacks and drinks near the promenade."
+    },
+    {
+      "name": "Family-friendly dining",
+      "description": "Check menus and opening hours near the centre."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Barcelona",
+      "description": "Explore the Gothic Quarter, museums and waterfront; check train schedules."
+    },
+    {
+      "name": "Girona",
+      "description": "Historic centre and medieval streets; plan rail connections."
+    },
+    {
+      "name": "Blanes",
+      "description": "Gateway to the Costa Brava with beaches and gardens."
+    },
+    {
+      "name": "Sant Pol de Mar",
+      "description": "Short coastal outing to a traditional village."
+    },
+    {
+      "name": "Pineda de Mar",
+      "description": "Neighbouring town with beaches and shops."
+    },
+    {
+      "name": "Tossa de Mar",
+      "description": "Historic coastal town; check road and bus connections."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Calella Lighthouse",
+      "description": "Far de Calella, Calella, Spain"
+    },
+    {
+      "name": "Platja Gran",
+      "description": "Platja Gran de Calella, Spain"
+    },
+    {
+      "name": "Platja de Garbí",
+      "description": "Platja de Garbí, Calella, Spain"
+    },
+    {
+      "name": "Parc Dalmau",
+      "description": "Parc Dalmau, Calella, Spain"
+    },
+    {
+      "name": "Les Torretes",
+      "description": "Les Torretes de Calella, Spain"
+    },
+    {
+      "name": "Carrer de l’Església",
+      "description": "Carrer de l’Església, Calella, Spain"
+    },
+    {
+      "name": "Sant Pol de Mar",
+      "description": "Sant Pol de Mar, Spain"
+    },
+    {
+      "name": "Calella railway station",
+      "description": "Estació de Calella, Spain"
+    }
+  ]
+}
